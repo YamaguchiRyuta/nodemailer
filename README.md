@@ -53,7 +53,7 @@ tsconfig.json 編集
 
 package.json 編集
 
-```json
+```json5
 "scripts": {
   // ...
   "runTS": "./node_modules/.bin/ts-node index.ts"
